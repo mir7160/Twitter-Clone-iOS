@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/mir7160/Twitter-Clone-iOS/blob/master/Twitter/twitter_ios_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mir7160/Twitter-Clone-iOS/blob/master/Twitter/Twitter%20ios%20updated.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
